@@ -91,3 +91,5 @@ Download 2023 Yellow Taxi trip records from the [NYC TLC Trip Record Data](https
 **Gowri S Nair** — Data Analyst · [LinkedIn](https://www.linkedin.com/in/gowri-s-nair-9ba795354) · [GitHub](https://github.com/GowriSNair)
 
 Group project completed with Group 9 teammates at St. Clair College.
+
+**My role:** I led the data cleaning and preprocessing (383K raw trips down to ~321K valid records), checked and validated the analysis and model results, and contributed to most other stages of the project.
